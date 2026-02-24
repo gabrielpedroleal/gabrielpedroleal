@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on personal projects to learn more!<br>🌱 Currently learning C# and Unity<br>💬 Ask me about
+🔭 Working on personal projects to learn more!<br>🌱 Currently learning C# and Unity<br>💬 Ask me about anything...
 
 
 ## 🌐 Socials:
